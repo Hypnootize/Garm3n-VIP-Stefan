@@ -244,7 +244,7 @@
 		if_match
 		{
 			"zpos"				"5"
-			"xpos"				"c-110"
+			"xpos"				"c-108"
 		}
 		
 		"TimePanelValue"
@@ -266,7 +266,7 @@
 			
 			if_match
 			{
-				"font"			"Garm3nFontSmaller"
+				"font"			"Garm3nFontTiny"
 				"textAlignment"		"center"
 			}
 		}
