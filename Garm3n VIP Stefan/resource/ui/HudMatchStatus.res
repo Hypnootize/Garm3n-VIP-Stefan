@@ -295,10 +295,9 @@
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Garm3nFontMediumShadow"
-			"font_lodef"	"Garm3nFontMediumShadow"
 			"fgcolor"		"Garm3nHUDWhite"
 			"xpos"			"34"
 			"ypos"			"0"
@@ -307,13 +306,13 @@
 			"tall"			"33"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"labelText"		"0:00"
 			
 			if_match
 			{
 				"font"			"Garm3nFontTiny"
-				"textAlignment"		"center"
+				"textAlignment"	"center"
 			}
 		}
 	}
